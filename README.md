@@ -1,3 +1,3 @@
 # ArduinoROM
 
-Open files using [KiCAD](kicad.org)
+Open files using [KiCAD](https://kicad.org)
